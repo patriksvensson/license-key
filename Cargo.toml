@@ -5,7 +5,7 @@ authors = ["Patrik Svensson <patrik@patriksvensson.se>"]
 description = "A library that makes signaling between threads a bit more ergonomic."
 license = "MIT"
 repository = "https://github.com/patriksvensson/license-key"
-keywords = ["license", "license key", "software license"]
+keywords = ["license", "license-generator", "software-license"]
 edition = "2018"
 
 [dependencies]
