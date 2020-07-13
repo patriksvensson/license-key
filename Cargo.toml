@@ -1,0 +1,15 @@
+[package]
+name = "license-key"
+version = "0.1.0"
+authors = ["Patrik Svensson <patrik@patriksvensson.se>"]
+edition = "2018"
+
+[dependencies]
+hex = "0.4.2"
+
+[dev-dependencies]
+criterion = "0.3"
+
+[[bench]]
+name = "generator"
+harness = false
