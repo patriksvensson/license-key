@@ -1,3 +1,5 @@
+# license-key
+
 A library for generating and verifying license keys without requiring
 an Internet connection. For further protection, you can of course
 validate the license key over the Internet.
